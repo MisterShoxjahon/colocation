@@ -1,115 +1,204 @@
 * {
-    margin: 0;
-    margin: 0;
-    text-decoration: none;
-    list-style: none;
+  margin: 0;
+  margin: 0;
+  text-decoration: none;
+  list-style: none;
 }
 
 body {
-    font-family: "Georama", serif;
-    background-image: url(1.jpg);
-    background-repeat: no-repeat;
-    background-position: 600px -20px;
+  font-family: "Georama", serif;
+  background-image: url(1.jpg);
+  background-repeat: no-repeat;
+  background-position: 600px -20px;
 }
 
 .container {
-    width: 1120px;
+  width: 1120px;
 }
 
 .Home {
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 19.41px;
-    color: #5EB083;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19.41px;
+  color: #5eb083;
 }
 
 .Services {
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 19.41px;
-    color: #32333D;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19.41px;
+  color: #32333d;
 }
 
 .Blog {
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 19.41px;
-    color: #32333D;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19.41px;
+  color: #32333d;
 }
 
 .Contact {
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 19.41px;
-    color: #32333D;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19.41px;
+  color: #32333d;
 }
 
 .btn {
-    margin-top: 10px;
-    border-radius: 30px;
-    width: 230px;
-    height: 60px;
-    background-color: #5EB083;
-    cursor: pointer;
-    color: #fff;
+  margin-top: 10px;
+  border-radius: 30px;
+  width: 230px;
+  height: 60px;
+  background-color: #5eb083;
+  cursor: pointer;
+  color: #fff;
 }
 
 .solo {
-    display: flex;
-    justify-content: space-around;
-    margin-top: 30px;
-    column-gap: 50px;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 30px;
+  column-gap: 50px;
 }
 
 .context {
-    display: flex;
-    justify-content: space-between;
+  display: flex;
+  justify-content: space-between;
 }
 
 .gap {
-    font-weight: 400;
-    font-size: 70px;
-    line-height: 84.91px;
-    width: 565px;
+  margin-top: 100px;
+  font-weight: 400;
+  font-size: 70px;
+  line-height: 84.91px;
+  width: 565px;
 }
 
 .gap .spam {
-    color: #5EB083;
+  color: #5eb083;
 }
 
 .super_gap {
-    font-weight: 400;
-    font-size: 24px;
-    line-height: 38px;
-    width: 501px;
-    color: #5B6574;
+  margin-top: 40px;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 38px;
+  width: 501px;
+  color: #5b6574;
 }
 
 .btn_gap {
-    margin-top: 10px;
-    border-radius: 30px;
-    width: 230px;
-    height: 60px;
-    background-color: #FFBB8A;
-    cursor: pointer;
-    color: #fff;
+  margin-top: 50px;
+  border-radius: 30px;
+  width: 230px;
+  height: 60px;
+  background-color: #ffbb8a;
+  cursor: pointer;
+  color: #fff;
 }
 
 .describe {
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 26px;
-    width: 335px;
-    color: #CAD3E0;
-    opacity: 0.5;
+  margin-top: 20px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  width: 335px;
+  color: #cad3e0;
+  opacity: 0.5;
 }
 
+.svg {
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-between;
+}
 
 .well {
-    display: flex;
-    justify-content: space-between;
+  display: flex;
+  justify-content: space-between;
 }
 
 .link {
-    margin-top: 100px;
+  margin-top: 100px;
+}
+
+.paragraph {
+  font-weight: 400;
+  font-size: 60px;
+  line-height: 72.78px;
+  color: #32333d;
+}
+
+.parag {
+  margin-top: 15px;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 38px;
+  width: 867px;
+  color: #5b6574;
+}
+
+.absolute_gap {
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 43.67px;
+  color: #000000;
+}
+
+.absolute {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 33px;
+  width: 505px;
+  color: #5b6574;
+}
+
+.class {
+  margin-left: 30px;
+  margin-top: 100px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.clas {
+  margin-left: 50px;
+  margin-top: 100px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.sap {
+  margin-left: 150px;
+}
+
+.positive {
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 43.67px;
+  color: #000000;
+}
+
+.cl {
+  margin-top: 100px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.page {
+  font-weight: 400;
+  font-size: 60px;
+  line-height: 72.78px;
+  width: 867px; 
+}
+
+.page__page {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 38px;
+    width: 867px;
+    opacity: 0.6;
+}
+
+.flex {
+    column-gap: 30px;
 }
